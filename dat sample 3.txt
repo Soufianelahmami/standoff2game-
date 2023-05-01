@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Standoff 2 is a first-person shooter game developed by Axlebolt, a Russian gaming company. ","photo":"https://iili.io/HSnClhQ.png"},
+  {"title":"tips pack 2","desc":"The game was released in 2018 and quickly gained popularity among mobile gamers due to its realistic graphics, engaging gameplay, and its similarity to popular FPS games like Counter-Strike: Global Offensive (CS:GO).","photo":"https://iili.io/HSnC7kb.jpg"},
+  {"title":"adviec mod 3","desc":"Standoff 2 is an online multiplayer game that allows players to choose between two teams, Terrorists or Counter-Terrorists. The objective of the game varies depending on the game mode. In Deathmatch","photo":"https://iili.io/HSnCR2e.jpg"},
+  {"title":"how to use this app 4","desc":"the objective is to eliminate as many enemy players as possible. In Defuse the Bomb, the terrorists have to plant a bomb and the counter-terrorists have to defuse it before it explodes. In Capture the Flag,","photo":"https://iili.io/HSnC5Yu.jpg"},
+  {"title":"advance mod 5","desc":", the objective is to capture the enemy flag and bring it to your base while protecting your own.","photo":"https://iili.io/HSnCGEP.jpg"},
+  {"title":"helper pack 6","desc":"One of the unique features of Standoff 2 is the ability to customize your loadout with different weapons and equipment. Players can choose from a variety of assault rifles,","photo":"https://iili.io/HSnCYpj.jpg"},
+  {"title":"tips mod 7","desc":"submachine guns, shotguns, and pistols, each with their own stats and unique attributes. The game also features a wide range of grenades, flashbangs, and other tactical equipment to help players gain an advantage in combat.","photo":"https://iili.io/HSnCcTx.jpg"},
+  {"title":"how to use this app 8","desc":"The graphics in Standoff 2 are one of the most impressive features of the game. The game is built on the Unity engine, which allows for high-quality graphics and smooth gameplay.","photo":"https://iili.io/HSnClhQ.png"}
    ]
  
 }
